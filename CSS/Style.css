@@ -76,7 +76,7 @@ a:hover {
 
 /* HERO */
 .hero {
-    background-image: url(IMG/Your\ images\ here.jpg);
+    background-image: url(IMG/Your\images\here.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
